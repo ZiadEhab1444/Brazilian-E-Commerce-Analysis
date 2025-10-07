@@ -1,0 +1,5 @@
+RFM_Segment_Name,Customer_Count,Avg_Recency,Avg_Frequency,Avg_Monetary,Avg_RFM_Score
+At Risk Customers,23938,324.35,1.0,95.38,5.62
+Best Customers,15540,120.22,1.14,294.3,10.54
+Lost Customers,6251,415.87,1.0,53.78,3.75
+Potential Loyalists,49683,221.62,1.02,174.09,7.93

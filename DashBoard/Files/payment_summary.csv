@@ -1,0 +1,6 @@
+payment_type,Total_Value,Avg_Value,Transaction_Count,Avg_Installments
+boleto,2869361.27,145.03,19784,1.0
+credit_card,12542084.19,163.32,76795,3.51
+debit_card,217989.79,142.57,1529,1.0
+not_defined,0.0,0.0,3,1.0
+voucher,379436.87,65.7,5775,1.0
